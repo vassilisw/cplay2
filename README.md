@@ -13,7 +13,7 @@ either pyncurses or the standard curses module.
 
 ### Requirements:
 
--mplayer (recommended)
+- mplayer (recommended)
 - python http://www.python.org/
 - python-oss (optional) http://net.indra.com/~tim/ossmodule/
 - mpg321 (optional) http://sourceforge.net/projects/mpg321/
