@@ -2,7 +2,7 @@
 
 ### Description
 
-cplay is now back with some more features!
+cplay is now back with some more features!  
 It is a fork of the well known cplay, so lets call it cplay2.
 
 cplay2 is a curses front-end for various audio players. It aims
@@ -22,8 +22,8 @@ either pyncurses or the standard curses module.
 after it passes its 85% of its duration.
 - Navigate **into m3u** playlist files.
 - More settings can be set in the rc file.
-- Bookmarks are saved between launches.
-- New colored ui.
+- **Bookmarks are saved** between launches.
+- New **colored** ui.
 - Dynamic help page.
 
 
@@ -57,13 +57,13 @@ after it passes its 85% of its duration.
 
 ### Installation
 
-Copy cplay2 wherever you're able to run it.
+Copy cplay2 wherever you're able to run it.  
 Copy cplayrc into .cplayrc in your home folder: `cp cplayrc ~/.cplayrc`
 
 
 ### Usage
 
-cplay2 [-nrRv] [ file | dir | playlist ]
+cplay2 [-nrRv] [ file | dir | playlist ]  
 press 'h' for a friendly help page.
 
 
