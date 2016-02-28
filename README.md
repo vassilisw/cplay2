@@ -11,7 +11,7 @@ and playlist control. cplay is written in Python and can use
 either pyncurses or the standard curses module.
 
 
-### Requirements:
+### Requirements
 
 - python http://www.python.org/
 - mplayer (**recommended**) www.mplayerhq.hu
@@ -29,3 +29,9 @@ either pyncurses or the standard curses module.
 - xmp (optional) http://xmp.sf.net/
 - sox (optional) http://sox.sf.net/
 - speex (optional) http://www.speex.org/
+
+
+### Usage
+
+cplay [-nrRv] [ file | dir | playlist ] ...
+press 'h' for a friendly help page.
